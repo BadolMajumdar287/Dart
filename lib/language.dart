@@ -3,7 +3,27 @@ void main() {
 }
 
 
-
+// Dart Programming Language
+// Dart is a client-optimized programming Language for apps on multiple platforms.
+// Dart is an open-source programming Language.
+// Dart is developed by Google and is used to build mobile, desktop, server, and web applications.
+// Dart is a statically typed programming Language.
+// Dart is an object-priented programming Language.
+// Dart is a class-based programming Language.
+// Dart is a garbage-collected programming Language.
+// Dart is a compiled progamming Language.
+// Dart is a multi-paradigm programming Language.
+// Dart is a general-purpose programming Language.
+// Dart is a modern programming Language.
+// Dart is a fast programming Language.
+// Dart is a productive Programming Language.
+// Dart is a flexible programming Language.
+// Dart is a Case-Sensitive progamming Language.
+// Dart is a C-style programming Language.
+// Dart is a curly-brace programming Language.
+// Dart is a free programming Language.
+// Dart is a cross-platfrom programming Language.
+// Dart is a high-level programming Language.
 // The main() function is a predefind function in Dart programming Language.
 // It is the entry point of every Dart application.
 // It is mandatory to have a main() function in every Dart progarm.
