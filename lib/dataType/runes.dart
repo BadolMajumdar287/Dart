@@ -39,6 +39,7 @@ void main() {
   String fourth = "C";
   String fifth = "badol";
   String sixth = "😁";
+  String seventh = '12';
   // Printing the runes (Unicode code points) of the characters.
   print(first.runes);
   print(second.runes);
@@ -46,4 +47,5 @@ void main() {
   print(fourth.runes);
   print(fifth.runes);
   print(sixth.runes);
+  print(seventh.runes);
 }
