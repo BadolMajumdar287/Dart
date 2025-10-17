@@ -1,5 +1,6 @@
 //DART LISTS DATA TYPE
 // List is an ordered group of objects. It is similar to arrays in other programming Languages.
+// List are allow duplicate values.
 
 void main() {
   var integerList = [21, 32, 42, 12, 25]; // List of integers
