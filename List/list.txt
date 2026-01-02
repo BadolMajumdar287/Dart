@@ -1,0 +1,7 @@
+DART LISTS
+
+// The list is a collection of the ordered objects(value).The concept of list is similar to an array.
+
+// An array is defiend as a collection of the multiple element in a single variable.
+
+// The element in the list are separated by the comma enclosed in the square bracket[].
