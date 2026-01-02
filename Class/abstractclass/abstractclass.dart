@@ -1,5 +1,3 @@
-import '../inheritance/inheritanceclass.dart';
-
 abstract class father {
   totalMoney() {
     print("Money = 2000000");
