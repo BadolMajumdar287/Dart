@@ -1,0 +1,21 @@
+DART INHERITANCE
+
+// Dart inheritance is defiend as the process of deriving the properties and characteristics of another class.
+
+//It provides the ability to create a new class from an existiong class.
+
+//It is the most essential concept of the oops(Object-Oriented programing approach).
+
+//We can reuse the all the behavior and characteristicsof the previous class in the new class.
+
+
+
+PARENT CLASS : 
+
+A class which is inherited by the other class is called superclass or parent class.It is also known as a base class.
+
+
+
+CHILD CLASS :
+
+A class which inherits properties from other class is called the child class.It is also known as the derived class or subclass.
