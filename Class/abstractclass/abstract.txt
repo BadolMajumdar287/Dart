@@ -1,0 +1,12 @@
+DART ABSTRACT CLASESS
+
+//Abstract classes are the classes in dart that has one or more abstract meethod.
+
+//Abstraction is a part of the data encapsulation where the actual internal working of the function hides from the users.
+
+//They interact only with external functionality.
+
+//We can declare the abstract class by using the abstract keyword.
+
+//There is a possibility that an abstract class may or may not have abstract methods.
+
