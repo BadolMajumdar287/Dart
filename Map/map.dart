@@ -7,6 +7,11 @@ void main(List<String> args) {
     "subject": "CST",
   };
 
+  student["country"] = "India";
+  student.remove("age");
+  student.addAll({"age": "21", "blood": "O+"});
+  student.remove("blood");
+  student.clear();
   print(student);
   print(student["age"]);
   print(student["city"]);
