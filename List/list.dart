@@ -10,4 +10,8 @@ void main(List<String> args) {
   print(RollNumbar[3]);
   print(RollNumbar[5]);
   print(RollNumbar.hashCode);
+  print(RollNumbar.reversed);
+  print(RollNumbar.isEmpty);
+  print(RollNumbar.isNotEmpty);
+  print(RollNumbar.single);
 }
