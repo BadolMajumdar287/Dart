@@ -1,0 +1,7 @@
+WHY DEBUGGING IS IMPORTANT 
+
+// To find out my mistake.
+// To test/checl my code, that woks well.
+// To understand complex program flow.
+// To works with complex part by part.    
+// To improve my code.
