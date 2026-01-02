@@ -1,0 +1,8 @@
+DART MAPS
+
+// The maps type is used to store values in key-value paris. Each key is associated with its value.
+
+// The key and value can be any type. In map, the key must be unique,but a value can occur multiple times
+
+// The Map is defiend by using curly braces({}),and comma separates each pair.
+
