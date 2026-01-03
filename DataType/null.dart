@@ -23,7 +23,7 @@ void main() {
   String? adreess;
   String? country = "India";
   print(adreess); // Output = null
-  print(country!); // Output = India
+  print(country); // Output = India
   var v;
 
   print(v); // Output = null
@@ -31,6 +31,4 @@ void main() {
   v = "Variable initialised noe";
 
   print(v); // output = Variable initialised noe.
-
-  const pi = 3.131659;
 }
