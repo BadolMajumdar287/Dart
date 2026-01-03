@@ -6,13 +6,13 @@ void main(List<String> args) {
   var AlphaList = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];
 
   for (var element in AlphaList) {
-    // print(element);
+    print(element);
   }
 
   var AlphaSet = {"A", "B", "C", "D", "E"};
 
   for (var element in AlphaSet) {
-    // print(element);
+    print(element);
   }
 
   var StudentDetail = [
